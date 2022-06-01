@@ -51,7 +51,7 @@
 },
 {
 "descripcion": "Precio Original $15810 - Descuento 20% - Precio Final $12648 En 6 cuotas sin interes de $2108",
-"producto": "Perfume Calvin Clain Eternity",
-"foto": "https://main.lucasliu.dev/Simplicity/D%C3%ADa%20del%20padre%202022/fotos/v2/Perfume%20Calvin%20Clain%20Eternity.png"
+"producto": "Perfume Calvin Klein Eternity",
+"foto": "https://main.lucasliu.dev/Simplicity/D%C3%ADa%20del%20padre%202022/fotos/v2/Perfume%20Calvin%20Klein%20Eternity.png"
 }
 ]
