@@ -31,8 +31,8 @@
 },
 {
 "descripcion": "Precio $5035 En 6 cuotas sin interes",
-"producto": "Kit Profesional 13 en 1 Ab",
-"foto": "https://main.lucasliu.dev/Simplicity/D%C3%ADa%20del%20padre%202022/fotos/v2/Kit%20Profesional%2013%20en%201%20Ab.png"
+"producto": "Perfume Antonio Banderas The Icon",
+"foto": "https://main.lucasliu.dev/Simplicity/D%C3%ADa%20del%20padre%202022/fotos/v2/Perfume%20Antonio%20Banderas%20The%20Icon.png"
 },
 {
 "descripcion": "Precio Original $7777 - Descuento 15% - Precio Final $6610,45 En 6 cuotas sin interes de $1101,74",
