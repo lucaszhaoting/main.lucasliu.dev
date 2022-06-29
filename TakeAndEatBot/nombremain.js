@@ -1,2 +1,2 @@
-["Azul Cornejo","Brian Bazan","Camilo Bilbao","Candela Ramos","Carolina Marti","Cecilia Capone","Diego Calio","Federico Monasterio","Ines Milani","Jimena Chaia","Julio Quevedo","Lucas Liu","Luciano Sisto","Matias Sole","Mercedes Cortada","Milagros Mut","Naomi Lucero","Paz Pereyra","Sabina Roca","Santiago Isola","Valentina Han","Victoria de Luca","Victoria Guarch"
+["Azul Cornejo","Brian Bazan","Camilo Bilbao","Candela Ramos","Carolina Marti","Cecilia Capone","Diego Calio","Federico Monasterio","Julio Quevedo","Lucas Liu","Luciano Sisto","Matias Sole","Mercedes Cortada","Milagros Mut","Naomi Lucero","Paz Pereyra","Sabina Roca","Santiago Isola","Valentina Han","Victoria Guarch"
 ,"Maria Paganini","Alejo Monasterio","Valentin Saravia","Stefania Villella","Sofia Cozzo"]
